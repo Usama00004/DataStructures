@@ -1,31 +1,31 @@
-# Data Structures & Sorting Practice (Python)
+# Data Structures & Sorting Algorithms
 
-## 📌 Project Overview
+## Project Overview
 This repository is a practice project where I implement fundamental **data structures** and **sorting algorithms** in **one Python file**.  
 The goal is to build a solid foundation in algorithm design, implementation, and complexity analysis.
 
----
+-
 
-## 📋 Implemented Data Structures
+## Implemented Data Structures
 
-### 🔹 Linear Data Structures
+### Linear Data Structures
 - Array  
 - Linked List (Singly, Doubly)  
 - Stack  
 - Queue  
 - Hash Table  
 
-### 🔹 Non-Linear Data Structures
+### Non-Linear Data Structures
 - Tree (Binary, BST, AVL)  
 - Heap (Min-Heap, Max-Heap)  
 - Graph (Adjacency List, Adjacency Matrix)  
 - Trie  
 
----
+-
 
-## 📊 Implemented Sorting Algorithms
+## Implemented Sorting Algorithms
 
-### 🔹 Comparison Sorts
+### Comparison Sorts
 - Bubble Sort  
 - Selection Sort  
 - Insertion Sort  
@@ -33,14 +33,14 @@ The goal is to build a solid foundation in algorithm design, implementation, and
 - Quick Sort  
 - Heap Sort  
 
-### 🔹 Non-Comparison Sorts
+### Non-Comparison Sorts
 - Counting Sort  
 - Radix Sort  
 - Bucket Sort  
 
----
+-
 
-## ⚡ Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
