@@ -1,0 +1,25 @@
+searching by index in array is O(1)
+searching by value in array is O(n)
+triversal in array is O(n)
+insertion in array is O(n)                  arr.insert(index,value)
+deletion in array with index is O(n)        arr.remove(index) 
+
+static array doesnot exist in python
+dynamic arrays are called list in python
+
+Concept  : Dynamic arrays follow the concept of Geometric progression
+          initially it is fixed but when the space is finished previous array 
+          is copied to a new sapce with more memory spaces and new value is added
+
+
+List Functions in python 
+
+len()
+min()
+max()
+sorted()
+reversed()
+enumerate()
+zip()
+map()
+filter()
