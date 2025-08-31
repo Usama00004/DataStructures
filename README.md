@@ -6,6 +6,10 @@ The goal is to build a solid foundation in algorithm design, implementation, and
 
 -
 
+![](images/image.jpg) 
+
+-
+
 ## Implemented Data Structures
 
 ### Linear Data Structures
