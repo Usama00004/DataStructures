@@ -4,11 +4,7 @@
 This repository is a practice project where I implement fundamental **data structures** and **sorting algorithms** in **one Python file**.  
 The goal is to build a solid foundation in algorithm design, implementation, and complexity analysis.
 
--
-
 ![](images/image.jpg) 
-
--
 
 ## Implemented Data Structures
 
