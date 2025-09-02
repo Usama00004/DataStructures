@@ -19,7 +19,7 @@ The goal is to build a solid foundation in algorithm design, implementation, and
 - Tree (Binary, BST, AVL)  
 - Heap (Min-Heap, Max-Heap)  
 - Graph (Adjacency List, Adjacency Matrix)  
-- Trie  
+- Tree
 
 -
 
