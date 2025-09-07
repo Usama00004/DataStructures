@@ -5,6 +5,14 @@ Insertion/Deletion is O(1) on average
 
 equivalent daatastructure in python : dictionary
 
+collisions can be handeled by two methods 
+1) chaining : If element is already present at index create a linkedlist there and appened next elements 
+
+
+2) Linear probing : 
+   Best O(1), Avg O(1), Worst O(n)    
+
+
 ==============================================================
 
 class HashTable:  
